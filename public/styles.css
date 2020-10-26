@@ -1,0 +1,14 @@
+.heading {
+  background-color: red;
+  color: chartreuse;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  color: blue;
+}
+
+.food-img {
+  height: 200px;
+  width: 200px;
+}
